@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:cut_copper"
+    },
+    {
+      "item": "minecraft:cut_copper"
+    },
+    {
+      "item": "minecraft:cut_copper"
+    },
+    {
+      "item": "minecraft:cut_copper"
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:cut_copper"
+    },
+    {
+      "item": "minecraft:cut_copper"
+    },
+    {
+      "item": "minecraft:cut_copper"
+    },
+    {
+      "item": "minecraft:cut_copper"
+    }
+  ],
+  "result": {
+    "item": "minecraft:exposed_cut_copper",
+    "count": 8
+  }
+}

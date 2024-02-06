@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:weathered_cut_copper_stairs",
+    "count": 8
+  }
+}

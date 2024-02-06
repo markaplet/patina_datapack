@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:weathered_copper"
+    },
+    {
+      "item": "minecraft:weathered_copper"
+    },
+    {
+      "item": "minecraft:weathered_copper"
+    },
+    {
+      "item": "minecraft:weathered_copper"
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:weathered_copper"
+    },
+    {
+      "item": "minecraft:weathered_copper"
+    },
+    {
+      "item": "minecraft:weathered_copper"
+    },
+    {
+      "item": "minecraft:weathered_copper"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oxidized_copper",
+    "count": 8
+  }
+}
